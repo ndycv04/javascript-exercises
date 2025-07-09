@@ -1,5 +1,5 @@
 const reverseString = function() {
-  reverseString('hello there');
+  return string.split("").reverse().join("");
 };
 
 // Do not edit below this line
